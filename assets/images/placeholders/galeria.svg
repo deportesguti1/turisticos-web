@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="300" height="300" role="img" aria-label="Espacio para foto de galer&#237;a">
+  <rect width="300" height="300" fill="#F5F5F7"/>
+  <rect x="30" y="30" width="240" height="240" rx="6" fill="none" stroke="#2E4D9F" stroke-width="2" stroke-dasharray="8 8"/>
+  <circle cx="120" cy="120" r="24" fill="#2E4D9F"/>
+  <path d="M60 210l50-56 40 34 34-30 56 52z" fill="#ED3338" opacity="0.85"/>
+  <text x="150" y="255" font-family="Poppins, Arial, sans-serif" font-size="12" fill="#6b7280" text-anchor="middle">Foto — reemplazar</text>
+</svg>
